@@ -4,6 +4,11 @@ This is a very simple trading bot, and I would hesitate to even call it a strate
 # Simple Kucoin Bot
 This bot will take a kucoin futures ticker and trade long only according to set parameters.
 
+# Usage
+```
+python3 main.py
+```
+
 # Required Parameters
 Provide these either via environment variables or in a .env file
 * KUCOIN_API_KEY -> Ex: "this-is-the-key"
